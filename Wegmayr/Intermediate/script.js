@@ -26,4 +26,4 @@ console.log(animals);
 var fruit1 = "mango/cherries/kiwi/grapes/pear/peach/orange/lemon";
 
 var fruit2 = fruit1.split("/");
-console.log(fruit2.join('\n'));
+console.log(fruit2.join("\n"));
